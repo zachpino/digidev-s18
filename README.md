@@ -90,13 +90,16 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 -----
 
 ### Sound-Enabled Interaction Design
-	> Choose a physical object that currently lacks sound output — and through a combination of *hidden* sensors — provide feedback that makes the object more engaging in its use, more intuitive to learn or master, and/or safer to handle appropriately.  
-	> This
+
+Choose a physical object that currently lacks sound output — and through a combination of *hidden* sensors — provide feedback that makes the object more engaging in its use, more intuitive to learn or master, and/or safer to handle appropriately.  
+	
 	
 #####Deliverables	 
-	> Prototyped Object
 
-	> 
+* Prototyped Working Object
+* Fritzing Diagram of Circuit
+* Photographic Documentation of Project
+* *Edited* Video Demonstrating Functionality
 
 -----
 
