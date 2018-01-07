@@ -12,17 +12,17 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 - [Week 02 · Sound of Electricity](week02/readme.md) 	
 	> Presentation: Electric / Sonic Waveforms, Plumbing Model of Electricity, PWM, Circuit Diagramming
 	> Make: [3 Tone Keyboard](https://www.arduino.cc/en/Tutorial/toneKeyboard)
-	> New Components: Button, Potentiometer, Toggle Switch, RGB LED
+	> New Components: Button, RGB LED, Potentiometer
 	> New Code: digitalRead(), analogWrite(), if(){}, else{}
-	> Homework: Make a keyboard! 8 different buttons, 8 different tones, 8 different illuminators, Pitch Adjust with Pot
+	> Homework: Make a tuneable keyboard! 8 different buttons, 8 different tones, 8 different illuminators
 	> Homework: Watch Moog Movie
 
 - [Week 03 · Rhythm and Speakers](week03/readme.md) 	
 	> Presentation: Speakers and Amps, Fritzing
 	> Make: 4 beat drum machine
-	> New Components: Amp, Speakers, Headphone Jack, Capacitor
+	> New Components: Amp, Speakers, Headphone Jack, Capacitor, Toggle Switch
 	> New Code: for()
-	> Homework: [Make 8 beat drum machine / sequencer! At least one option per beat through inputs, speaker and buzzer with adjustable beat frequency](https://learn.sparkfun.com/tutorials/build-an-auduino-step-sequencer)
+	> Homework: [Make 8 beat drum machine / sequencer! At least one option per beat through inputs, speaker and buzzer with adjustable beat, frequency with potentiometer](https://learn.sparkfun.com/tutorials/build-an-auduino-step-sequencer)
 	> Homework: Visit Chicago Music Exchange
 
 - [Week 04 · Ambient Controls](week04/readme.md) 	
