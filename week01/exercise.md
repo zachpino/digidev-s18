@@ -14,10 +14,14 @@ Relying on the principle of [Piezo electrostatic vibration](https://www.allabout
 
 ### Photoresistor (or Light-Dependent Resistor)
 
-This small *analog* sensors relys on the flexion that occurs when a lead-based metal alloy is exposed to light to minutely adjust its electrical resistance. The more light that strikes the [photoresistor](https://en.wikipedia.org/wiki/Photoresistor) and its characteristic wave-shaped *bandgap*, the more voltage can flow through the component. In the darkness, the component has a high resistance and prevents the flow of electrons from jumping the bandgap. Photoresistors are used in any object that need to reference the general intensity of light or shadow in a space, and are frequently used in for day-night behavior switching.
+![Photoresistor](https://cdn.sparkfun.com//assets/parts/2/4/6/2/09088-02-L.jpg)
+
+This small *analog* sensor relys on the flexion that occurs when a lead-based metal alloy (wash your hands after touching it!) is exposed to light to minutely adjust its electrical resistance. The more light that strikes the [photoresistor](https://en.wikipedia.org/wiki/Photoresistor) and its characteristic wave-shaped *bandgap*, the more voltage can flow through the component. In the darkness, the component has a high resistance and prevents the flow of electrons from jumping the bandgap. Photoresistors are used in any object that need to reference the general intensity of light or shadow in a space, and are frequently used in for day-night behavior switching.
 
 
 ### Pull Down Resistor
+
+![pull down resistor](https://cdn.sparkfun.com//assets/parts/8/3/1/08374-02-L.jpg)
 
 The 10K Ohm resistor is used in combination with the Photoresistor to ensure that current flows through the sensor. Otherwise, power would not flow directly to ground through the sensor. Pull Up and Pull Down resistors are often used in this way, and will be discussed in future weeks.
 
