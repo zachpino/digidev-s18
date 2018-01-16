@@ -31,7 +31,7 @@ The Particle platform is easier to work with after some additional utilities are
 
 > bash <( curl -sL https://particle.io/install-cli )
 
-Quit Terminal, and relaunch it. Type into this new windows:
+Quit Terminal, and relaunch it. Type this into the new window:
 
 > particle login
 
