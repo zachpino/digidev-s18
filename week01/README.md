@@ -1,5 +1,4 @@
 # Week 1 · Microprocessor Basics, Arduino and Particle Platforms, Photodiode Theremin
-Documentation and Resources for the Spring 2018 IIT Institute of Design Digital Development Workshop
 
 Welcome to Digital Development Workshop, Spring 2018. In this course, the fundamentals of microcontrollers, electronics, and functional programming will be covered through explorations into digital and experimental musicianship.
 
