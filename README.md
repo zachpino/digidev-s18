@@ -48,7 +48,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
  - [Week 07 · Desktop Input](week07/readme.md) 	
 	> Presentation: MIDI, Adobe Audition
-	> Make: [MIDI Controller]()
+	> Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
 	> New Components: Slide Pots, Push Buttons
 	> New Code: MIDI Serial Signalling
 	> Homework: Record/Prepare Some Music!
