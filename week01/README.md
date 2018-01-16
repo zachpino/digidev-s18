@@ -5,11 +5,9 @@ Welcome to Digital Development Workshop, Spring 2018. In this course, the fundam
 
 The course will rely upon the exciting opportunities offered by the Particle Photon prototyping platform, though the code and components should run on any Arduino compatible board after necessary pin number alternations.
 
-· [Introductory Presentation](DigiDev_S18_Intro.pdf)
-· [Syllabus](DigiDev_S18_Syllabus.pdf)
-· [Theremins](theremin.md)
-· [Exercise](exercise.md)
-
+- [Introductory Presentation](DigiDev_S18_Intro.pdf)
+- [Syllabus](DigiDev_S18_Syllabus.pdf)
+- [Exercise](exercise.md)
 
 ### The Particle Platform
 
@@ -48,7 +46,11 @@ Search your respective App Store for the 'Particle' App and login.
 
 Please follow [these steps](https://docs.particle.io/guide/getting-started/start/photon/) to connect your Particle Photon to the internet, beginning at `Step 2B` through the Mobile App.
 
+-----
 
+### Setup Complete!
+
+Now, the Particle Photon can be used to [make music](exercise.md)! 
 
 
 
