@@ -3,17 +3,12 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
 - [Week 01 · Microcontroller Basics, Arduino and Particle Platforms, Photoresistor Theremin](week01/readme.md) 	
 	
-	> Presentation: Syllabus Review, (Electonic) Instruments, Explore Variety of Arduino Components and Electronic Instruments, Particle Build Site and App
-	
-	> Make: [Theremin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin)
-	
-	> New Components: Photon, Breadboard, Jumper Cables, Buzzer, LED, Resistor, Photoresistor
-	
-	> New Code: tone(), noTone(), map(), analogRead(), int, digitalWrite(), delay()
-	
-	> Homework: Make an instrument! Handheld object that can make at least 8 distinct sounds. Translate single song into tone/hertz language
-	
-	> Homework: Purchase Kit and Sensor Pack
+	- Presentation: Syllabus Review, (Electonic) Instruments, Explore Variety of Arduino Components and Electronic Instruments, Particle Build Site and App
+	- Make: [Theremin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin)
+	- New Components: Photon, Breadboard, Jumper Cables, Buzzer, LED, Resistor, Photoresistor
+	- New Code: tone(), noTone(), map(), analogRead(), int, digitalWrite(), delay()
+	- Homework: Make an instrument! Handheld object that can make at least 8 distinct sounds. Translate single song into tone/hertz language
+	- Homework: Purchase Kit and Sensor Pack
 
 - [Week 02 · Sound of Electricity](week02/readme.md) 	
 	> Presentation: Electric / Sonic Waveforms, Plumbing Model of Electricity, Circuit Diagramming
