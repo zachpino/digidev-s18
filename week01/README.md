@@ -1,4 +1,4 @@
-# Week 1 · MicroprocessoBasics, Arduino and Particle Platforms, Photoresistor Theremin
+# Week 1 · Microprocessor Basics, Arduino and Particle Platforms, Photoresistor Theremin
 
 Welcome to Digital Development Workshop, Spring 2018. In this course, the fundamentals of microcontrollers, electronics, and functional programming will be covered through explorations into digital and experimental musicianship.
 
