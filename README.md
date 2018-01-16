@@ -4,7 +4,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 - [Week 01 · Course Introduction](week01/README.md) 	
 	
 	- Presentation: Syllabus Review, (Electonic) Instruments, Particle Build Site and App
-	- Make: Light Theremin
+	- Make: [Light Theremin](week01/exercise.md)
 	- New Components: Photon, Breadboard, Jumper Cables, Buzzer, LED, Resistor, Photoresistor
 	- New Code: tone(), noTone(), map(), analogRead(), int, digitalWrite(), delay()
 	- Homework: Make an instrument! Design and build an analog handheld object that can make at least 8 distinct sounds.

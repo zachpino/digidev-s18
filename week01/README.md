@@ -1,4 +1,4 @@
-# Week 1 · Microprocessor Basics, Arduino and Particle Platforms, Photodiode Theremin
+# Week 1 · MicroprocessoBasics, Arduino and Particle Platforms, Photoresistor Theremin
 
 Welcome to Digital Development Workshop, Spring 2018. In this course, the fundamentals of microcontrollers, electronics, and functional programming will be covered through explorations into digital and experimental musicianship.
 
@@ -50,14 +50,3 @@ Please follow [these steps](https://docs.particle.io/guide/getting-started/start
 ### Setup Complete!
 
 Now, the Particle Photon can be used to [make music](exercise.md)! 
-
-
-
-
-
-	> Presentation: Syllabus Review, (Electonic) Instruments, Explore Variety of Arduino Components and Electronic Instruments, Particle Build Site and App
-	> Make: [Theremin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin)
-	> New Components: Photon, Breadboard, Jumper Cables, Buzzer, LED, Resistor, Photoresistor
-	> New Code: tone(), noTone(), map(), analogRead(), int, digitalWrite(), delay()
-	> Homework: Make an instrument! Handheld object that can make at least 8 distinct sounds. Translate single song into tone/hertz language
-	> Homework: Purchase Kit and Sensor Pack
