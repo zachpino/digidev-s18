@@ -8,7 +8,7 @@ There are 2 new components in play: a button and a trimpot, both of which allow 
 
 ### Pushbutton
 
-![Pushbutton](hhttps://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg)
+![Pushbutton](https://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg)
 
 Buttons are simple components in complex packagings. They are effectively broken wires, that are fully reconnected when the button is pressed down. This allows a user to control the flow of electrons.
 
