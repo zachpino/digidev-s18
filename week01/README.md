@@ -11,3 +11,8 @@ The course will rely upon the exciting opportunities offered by the Particle Pho
 
 - [Particle Setup and Software Dependencies](particle.md)
 - [Exercise : Light Theremin](exercise.md)
+
+-----
+
+- Homework: Make an instrument! Design and build an analog handheld object that can make at least 8 distinct sounds.
+- Homework: Purchase [Kit and Sensor Pack](https://www.amazon.com/Elegoo-Electronics-Potentiometer-tie-points-Breadboard/dp/B01ERPEMAC/ref=sr_1_3?ie=UTF8&qid=1516139490&sr=8-3&keywords=electronics+kit)
