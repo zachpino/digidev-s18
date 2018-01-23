@@ -76,7 +76,7 @@ void loop(){
 		buzzerPitch = 261;
 		
 		//tell the buzzer to make noise
- 		tone(speakerPin, buzzerPitch);
+ 		tone(buzzerPin, buzzerPitch);
  	
  		//wait a small amount of time to allow buzzer to make noise
  		delay(buzzerDuration);
@@ -86,7 +86,7 @@ void loop(){
 		buzzerPitch = 659;
 		
 		//tell the buzzer to make noise
- 		tone(speakerPin, buzzerPitch);
+ 		tone(buzzerPin, buzzerPitch);
  	
  		//wait a small amount of time to allow buzzer to make noise
  		delay(buzzerDuration);
@@ -96,7 +96,7 @@ void loop(){
 		buzzerPitch = 1567;
 		
 		//tell the buzzer to make noise
- 		tone(speakerPin, buzzerPitch);
+ 		tone(buzzerPin, buzzerPitch);
  	
  		//wait a small amount of time to allow buzzer to make noise
  		delay(buzzerDuration);
