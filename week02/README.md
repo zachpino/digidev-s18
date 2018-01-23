@@ -8,7 +8,7 @@ In order to advance our microprocessor-related design skills, it is important to
 
 -----
 
-- Make a [3 Tone Keyboard](week02/exercise.md)
+- Make a [3 Tone Keyboard](exercise.md)
 
 -----
 
