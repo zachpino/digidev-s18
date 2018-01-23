@@ -54,9 +54,9 @@ void setup(){
 	
 	//Set the 'one-way-streets' so that the right pins are speaking and listening
 	pinMode(buzzerPin, OUTPUT);
-	pinMode(button1 INPUT);
-	pinMode(button2 INPUT);
-	pinMode(button3 INPUT);
+	pinMode(button1, INPUT);
+	pinMode(button2, INPUT);
+	pinMode(button3, INPUT);
 }
 
 //After setup, loop runs over and over again 
