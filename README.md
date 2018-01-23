@@ -12,10 +12,10 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
 - [Week 02 · Sound of Electricity](week02/README.md) 	
 	- Presentation: Electric / Sonic Waveforms, Plumbing Model of Electricity, Circuit Diagramming
-	- Make: Buzzer Melody, [3 Tone Keyboard](https://www.arduino.cc/en/Tutorial/toneKeyboard)
+	- Make: [3 Tone Keyboard](week01/exercise.md)
 	- New Components: Button, LEDs, TrimPot
 	- New Code: digitalRead(), if(){}, else{}
-	- Homework: Improve keyboard! Add 4th button, change from tones to small melodies from each button
+	- Homework: Improve keyboard! Add 4th button, change from tones to small melodies for each button
 	- Homework: Watch Moog Movie
 
 - [Week 03 · Rhythm](week03/README.md) 	
