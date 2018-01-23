@@ -83,7 +83,7 @@ void loop(){
  	}
 
  	else if(button2Reading == HIGH) {
-		buzzerPitch = 391;
+		buzzerPitch = 659;
 		
 		//tell the buzzer to make noise
  		tone(speakerPin, buzzerPitch);
@@ -93,7 +93,7 @@ void loop(){
  	}
 
  	else if(button3Reading == HIGH) {
-		buzzerPitch = 391;
+		buzzerPitch = 1567;
 		
 		//tell the buzzer to make noise
  		tone(speakerPin, buzzerPitch);
