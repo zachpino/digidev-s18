@@ -12,5 +12,6 @@ In order to advance our microprocessor-related design skills, it is important to
 
 -----
 
-- Homework: Improve the keyboard! Add a 4th button, change from tones to small melodies for each button.
+- Homework: Connect your Photon to your home network. Plug in your photon at home, hold down the setup button for 3 seconds, and the Photon will flash blue. It is now ready for [your phone to connect to it](https://docs.particle.io/guide/getting-started/start/photon/) to configure its wifi settings. 
+- Homework: Wire up the [3 Tone Keyboard circuit](exercise.md) at home. Try running the software! 
 - Homework: [Watch Moog Documentary](https://www.youtube.com/watch?v=XRg8R-00mjs)
