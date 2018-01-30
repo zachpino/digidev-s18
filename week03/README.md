@@ -1,4 +1,4 @@
-# Week 3 · Rhythm
+# Week 3 · Rhythm 
 
 Let's spend the week reinforcing some coding skills.
 
