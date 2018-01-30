@@ -20,12 +20,11 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: [Watch Moog Documentary](https://www.youtube.com/watch?v=XRg8R-00mjs)
 	- Homework: Submit a short video of your instrument to Blackboard.
 
-- Week 03 · Rhythm
-	- Presentation: Digital Loops
-	- Make: 4 beat drum machine, led indicator, pots for pitch, on/off switch, TRS jack with volume pot
-	- New Components: Headphone Jack, Toggle Switch
-	- New Code: while(), for(); Reading Potentiometers, Switches; Global On/Off
-	- Homework: Improve Sequencer! Add trimpot for tempo control. [Sequencer](https://learn.sparkfun.com/tutorials/build-an-auduino-step-sequencer)
+- [Week 03 · Rhythm](week02/README.md) 	
+	- Presentation: Analog vs. Digital Data
+	- Make: 4 beat sequencer with led indicators
+	- New Components: LEDs
+	- New Code: Controlled looping, iterative checking
 	- Homework: Visit Chicago Music Exchange
 
 - Week 04 · PWM and Polyphony
