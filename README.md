@@ -22,10 +22,11 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
 - [Week 03 · Rhythm](week02/README.md) 	
 	- Presentation: Analog vs. Digital Data
-	- Make: 4 beat sequencer with led indicators
+	- Make: [4 beat sequencer with led indicators](week03/exercise.md)
 	- New Components: LEDs
 	- New Code: Controlled looping, iterative checking
 	- Homework: Visit Chicago Music Exchange
+	- Homework: ...
 
 - Week 04 · PWM and Polyphony
 	- Presentation: PWM, Color and Sonic Harmony
