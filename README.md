@@ -20,7 +20,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: [Watch Moog Documentary](https://www.youtube.com/watch?v=XRg8R-00mjs)
 	- Homework: Submit a short video of your instrument to Blackboard.
 
-- [Week 03 · Rhythm](week02/README.md) 	
+- [Week 03 · Rhythm](week03/README.md) 	
 	- Presentation: Analog vs. Digital Data
 	- Make: [4 beat sequencer with led indicators](week03/exercise.md)
 	- New Components: LEDs
