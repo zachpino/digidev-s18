@@ -25,7 +25,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Make: [4 beat sequencer with led indicators](week03/exercise.md)
 	- New Components: LEDs
 	- New Code: Controlled looping, iterative checking
-	- Homework: Visit Chicago Music Exchange
+	- Homework: Visit [Chicago Music Exchange](https://www.chicagomusicexchange.com)
 	- Homework: ...
 
 - Week 04 · PWM and Polyphony
