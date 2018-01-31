@@ -36,6 +36,9 @@ int pitch3 = 200;
 int noteDuration = 500;
 int restDuration = 250;
 
+//store how much the pitch should increment for each button press
+int pitchStep = 50;
+
 void setup() {
 
   // choose pin orientation
@@ -62,19 +65,19 @@ void loop() {
 
    //increase pitch if button is pressed
   if (button0Reading == HIGH) {
-    pitch0 = pitch0 + 50;
+    pitch0 = pitch0 + pitchStep;
   }
 
   else if (button1Reading == HIGH) {
-    pitch1 = pitch1 + 50;
+    pitch1 = pitch1 + pitchStep;
   }
 
   else if (button2Reading == HIGH) {
-    pitch2 = pitch2 + 50;
+    pitch2 = pitch2 + pitchStep;
   }
 
   else if (button3Reading == HIGH) {
-    pitch3 = pitch3 + 50;
+    pitch3 = pitch3 + pitchStep;
   }
   
   
