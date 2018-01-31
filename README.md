@@ -26,7 +26,8 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- New Components: LEDs
 	- New Code: Controlled looping, iterative checking
 	- Homework: Visit [Chicago Music Exchange](https://www.chicagomusicexchange.com)
-	- Homework: ...
+	- Homework: [Purchase Additional Supplies](https://www.adafruit.com/wishlists/455653)
+	- Homework: [Finish Wiring and Test the Sequencer](week03/exercise.md)
 
 - Week 04 · PWM and Polyphony
 	- Presentation: PWM, Color and Sonic Harmony
