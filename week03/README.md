@@ -17,5 +17,6 @@ Review these videos from last week to better understand electricity!
 - Make a [Sequencer](exercise.md).
 
 -----
-- Homework: Visit [Chicago Music Exchange](https://www.chicagomusicexchange.com) and take a Selfie!
-- Homework: Order a few parts -- list to come.
+- Homework: Visit [Chicago Music Exchange](https://www.chicagomusicexchange.com)
+- Homework: [Purchase Additional Supplies](https://www.adafruit.com/wishlists/455653)
+- Homework: [Finish Wiring and Test the Sequencer](week03/exercise.md)
