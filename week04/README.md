@@ -14,6 +14,5 @@ Pullup? Pulldown? Voltage Divider? Ohms? Let's spend the week reinforcing our kn
 - Make an [Analog Sensor Array](exercise.md).
 
 -----
-- Homework: Listen to two albums *all the way through*
-- Homework: [Purchase Additional Supplies If You Didn't!](https://www.adafruit.com/wishlists/455653)
-- Homework: [Finish Wiring and Test the Sequencer](week03/exercise.md)
+- Homework: Listen to two albums *all the way through*. 
+- Homework: Listen to three albums *all the way through*, all available on Spotify. Kraftwerk's *Trans-Europe Express*, Adventures Beyond the Ultraworld's *The Orb*, OK Ikumi's *Outside*. 

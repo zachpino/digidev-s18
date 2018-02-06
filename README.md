@@ -29,19 +29,15 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: [Purchase Additional Supplies](https://www.adafruit.com/wishlists/455653)
 	- Homework: [Finish Wiring and Test the Sequencer](week03/exercise.md)
 
-- Week 04 · PWM and Polyphony
-	- Presentation: PWM, Color and Sonic Harmony
-	- Make: Basic Harmonics Tool with 3 Buzzers
-	- New Components: RGB LED, Amps, Multiple Buzzers
-	- New Code: analogWrite(),[Tone Library](https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki)
-	- Homework: Switch to PWM polyphony with Tone Library and 1 buzzer
+- [Week 04 · Analog Sensor Basics](week04/README.md) 	
+	- Presentation: Analog Sensors and Resistors in Detail
+	- Make: [Analog Sensor Array](week04/exercise.md)
+	- New Components: Slide Pots, Thermistor, RGB Common Cathode LED
+	- New Code: Interrupts (Maybe...)
+	- Homework: Listen to three albums *all the way through*, all available on Spotify. Kraftwerk's *Trans-Europe Express*, Adventures Beyond the Ultraworld's *The Orb*, OK Ikumi's *Outside*. 
+	- Homework: [Purchase Additional Supplies If You Didn't!](https://www.adafruit.com/wishlists/455653)
 
- - Week 05 · Playback and Feedback
-	- Presentation: PAM8302 Amplifier, Speaker, WAV Files
-	- Make: [WAV Player with Navigable Screen Interface and SD Card Memory](https://circuitdigest.com/microcontroller-projects/arduino-audio-music-player)
-	- New Components: [LCD Display](https://www.hackster.io/ingo-lohs/what-s-my-i2c-address-0a097e), Speaker, SD Card Reader, LiPo Battery, LiPo Charger
-	- New Code: Libraries, String Processing, String() manipulation
-	- Homework: Add toggle between headphones and speaker
+- Week 05 · Fieldtrip!
 
  - Week 06 · Recording and Capture 	
 	- Presentation: Microphones, Analog and Digital Sensors
@@ -95,3 +91,5 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 - Week 14 · Finished!
 	- Presentation: Final Critique
 	- Homework: Deliverables
+
+
