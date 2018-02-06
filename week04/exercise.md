@@ -2,7 +2,7 @@
 
 This particular project allows us to better understand [variable] resistor behavior, as well as explore possible user interactions.
 
-![resistor array](resistor_bb.png)
+![resistor array](resistors_bb.png)
 
 -----
 
