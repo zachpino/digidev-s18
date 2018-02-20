@@ -41,14 +41,23 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
 - Week 05 · Fieldtrip!
 
- - Week 06 · Recording and Capture 	
+- [Week 06 · Analog Sensor Basics](week06/README.md) 	
+
+	- Presentation: Fritzing and Soldering
+	- Make:[3 Note Tone Generator](exercise.md).
+	- Homework: Solder male->male headers onto all of your new parts
+	- Homework: Record a track with your Tone Generator
+	- Homework: Listen to three albums *all the way through*, all available on Spotify. Donna Summer's *I Remember Yesterday*, Vangelis *Albedo 0.39*, and Daft Punk's *Human After All*.
+
+
+ - Week 07 · Recording and Capture 	
 	- Presentation: Microphones, Analog and Digital Sensors
 	- Make: [Sound recorder capable of capturing and playing back a sound](http://www.instructables.com/id/Arduino-Audio-Input/)
 	- New Components: Microphones, Analog Sensors (Piezo Force Sensor, Slide Pot, Flex Sensor) and Digital Sensors (Temperature Sensor, Digital Color Sensor)
 	- New Code: Library Import, Particle.variable(), Particle.publish(), Serial Data Writing
 	- Homework: Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
 
- - Week 07 · Desktop Input
+ - Week ? · Desktop Input
 	- Presentation: MIDI, Adobe Audition
 	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
 	- New Components: Slide Pots, Push Buttons
