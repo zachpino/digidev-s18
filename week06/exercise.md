@@ -6,7 +6,7 @@ Let's begin this exercise by wiring up a model, and then take a stab on our own 
 
 The top trimpot handles volume. The other four trimpots are up to you — what might we want to control to make this a *pleasant* and useable instrument?
 
-![tone generator](tone generator.png)
+![tone generator](tone_generator.png)
 
 -----
 
