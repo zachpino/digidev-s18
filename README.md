@@ -41,10 +41,10 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
 - Week 05 · Fieldtrip!
 
-- [Week 06 · Analog Sensor Basics](week06/README.md) 	
+- [Week 06 · New Skills](week06/README.md) 	
 
 	- Presentation: Fritzing and Soldering
-	- Make:[3 Note Tone Generator](exercise.md).
+	- Make: [3 Note Tone Generator](exercise.md).
 	- Homework: Solder male->male headers onto all of your new parts
 	- Homework: Record a track with your Tone Generator
 	- Homework: Listen to three albums *all the way through*, all available on Spotify. Donna Summer's *I Remember Yesterday*, Vangelis *Albedo 0.39*, and Daft Punk's *Human After All*.
