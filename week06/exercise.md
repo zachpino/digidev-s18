@@ -38,7 +38,7 @@ for( int i = 200; i < 1200; i++ ){
   delay(5);
 }
 
-for( int i = 1200; i > 0; i++ ){
+for( int i = 1200; i > 0; i-- ){
   tone(D1, i);
   delay(5);
 }
