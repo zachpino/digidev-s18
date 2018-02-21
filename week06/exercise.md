@@ -53,14 +53,15 @@ for( int i = 1200; i > 0; i-- ){
 A `while` loop allows for a simpler controls: a loop that will continue indefinitely until some condition is fulfilled.
 
 ```c
-//
-
+//add a starting point for the note we want to play.
 int pitch = 0;
 
+//loop so long as our pitch is less than 1200
 while( pitch < 1200 ){
-  //add a random amount to pitch
+  //add a random amount to pitch each loop
   pitch = pitch + random(0,100);
 
+  //make noise
   tone(D1, pitch);
   delay(5);
 
