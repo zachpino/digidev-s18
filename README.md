@@ -44,7 +44,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 - [Week 06 · New Skills](week06/README.md) 	
 
 	- Presentation: Fritzing and Soldering
-	- Make: [Tone Generator](exercise.md).
+	- Make: [Tone Generator](week06/exercise.md).
 	- Homework: Make a Fritzing diagram of your tone generator *as you wired it*. 
 	- Homework: Record a track with your Tone Generator. 
 	- Homework: Listen to three albums *all the way through*, all available on Spotify. Donna Summer's *I Remember Yesterday*, Vangelis *Albedo 0.39*, and Daft Punk's *Human After All*. Make sure you have an opinion on these!
