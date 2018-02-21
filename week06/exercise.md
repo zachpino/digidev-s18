@@ -39,7 +39,7 @@ for( int i = 200; i < 1200; i++ ){
 ```
 
 Another example, this one counts *down* rather than up.
-```
+```c
 //start looping with a counter set to 1200
 //keep looping so long as the counter is greater than 0
 //after every loop, subtract 1 from i
