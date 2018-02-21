@@ -13,7 +13,7 @@ Let's spend the week learning a few skills adjacent to our main electronics and 
 
 -----
 
-- Recommended Review: Rewire your [sequencer](../week03/README.md) and experiment with it
+- Recommended Review: Rewire your [sequencer](../week03/README.md) and experiment with it. Lay down some tracks!
 
 - Homework: Make a Fritzing diagram of your tone generator *as you wired it*. It doesn't need to look like mine! Submit diagram to BB.
 - Homework: Record a track with your Tone Generator. Look out for audio cables on your desks on Friday. Submit recording to BB.
