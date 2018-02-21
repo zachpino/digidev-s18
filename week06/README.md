@@ -13,10 +13,10 @@ Let's spend the week learning a few skills adjacent to our main electronics and 
 
 -----
 
-- Homework: Make a Fritzing diagram of your tone generator *as you wired it*. It doesn't need to look like mine! 
-- Homework: Record a track with your Tone Generator
+- Homework: Make a Fritzing diagram of your tone generator *as you wired it*. It doesn't need to look like mine! Submit to BB.
+- Homework: Record a track with your Tone Generator. Submit to BB.
 - Homework: Listen to three albums *all the way through*, all available on Spotify. Donna Summer's *I Remember Yesterday*, Vangelis *Albedo 0.39*, and Daft Punk's *Human After All*.
-- Reminder: Email me a single track by an electronic musician *before next class* that you want the class to listen to.
+- Homework: Email me a single track by an electronic musician *before next class* that you want the class to listen to.
 - Homework: Solder male->male headers onto all of your new parts
 
   - Capacitive Touch Sensor
