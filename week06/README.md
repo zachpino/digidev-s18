@@ -15,7 +15,7 @@ Let's spend the week learning a few skills adjacent to our main electronics and 
 
 - Recommended Review: Rewire your [sequencer](../week03/README.md) and experiment with it
 
-- Homework: Make a Fritzing diagram of your tone generator *as you wired it*. It doesn't need to look like mine! Submit to BB.
+- Homework: Make a Fritzing diagram of your tone generator *as you wired it*. It doesn't need to look like mine! Submit diagram to BB.
 - Homework: Record a track with your Tone Generator. Look out for audio cables on your desks on Friday. Submit recording to BB.
 - Homework: Listen to three albums *all the way through*, all available on Spotify. Donna Summer's *I Remember Yesterday*, Vangelis *Albedo 0.39*, and Daft Punk's *Human After All*. Make sure you have an opinion on these!
 - Homework: Email me a single track by an electronic musician *before next class* that you want the class to listen to.
