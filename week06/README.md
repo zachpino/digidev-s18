@@ -9,7 +9,7 @@ Let's spend the week learning a few skills adjacent to our main electronics and 
 
 -----
 
-- Make a [3 Note Tone Generator](exercise.md).
+- Make a [Tone Generator](exercise.md).
 
 -----
 
