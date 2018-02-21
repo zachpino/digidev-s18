@@ -32,12 +32,17 @@ A `for` loop allows for controlled and iterative looping over a chunk of code.
 //start looping with a counter set to 200
 //keep looping so long as the counter is less than 1200
 //after every loop, add 1 to i
-
 for( int i = 200; i < 1200; i++ ){
   tone(D1, i);
   delay(5);
 }
+```
 
+Another example, this one counts *down* rather than up.
+```
+//start looping with a counter set to 1200
+//keep looping so long as the counter is greater than 0
+//after every loop, subtract 1 from i
 for( int i = 1200; i > 0; i-- ){
   tone(D1, i);
   delay(5);
