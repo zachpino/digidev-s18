@@ -24,7 +24,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Presentation: Analog vs. Digital Data
 	- Make: [4 beat sequencer with led indicators](week03/exercise.md)
 	- New Components: LEDs
-	- New Code: Controlled looping, iterative checking
+	- New Code: Controlled looping
 	- Homework: Visit [Chicago Music Exchange](https://www.chicagomusicexchange.com)
 	- Homework: [Purchase Additional Supplies](https://www.adafruit.com/wishlists/455653)
 	- Homework: [Finish Wiring and Test the Sequencer](week03/exercise.md)
@@ -51,38 +51,39 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: Email me a single track by an electronic musician *before next class* that you want the class to listen to.
 	- Homework: Solder male->male headers onto all of your new parts
 
+- [Week 07 · Advanced Sensing](week07/README.md) 	
 
- - Week 07 · Recording and Capture 	
+	- Presentation: Capacitive Touch and I2C, Audio Waveform Experiments
+	- Make: [Capacitive Touch Sampler](week07/exercise.md).
+	- New Code: Advanced looping, iterative checking
+	- Homework: Record a track with your Touch Sampler, and design an instrument around it (in teams?).
+	- Homework: Begin thinking about [final briefs](briefs.md).
+	- Homework: There will be a playlist to listen to! 
+
+
+ - Week ? · Recording and Capture 	
 	- Presentation: Microphones, Analog and Digital Sensors
 	- Make: [Sound recorder capable of capturing and playing back a sound](http://www.instructables.com/id/Arduino-Audio-Input/)
-	- New Components: Microphones, Analog Sensors (Piezo Force Sensor, Slide Pot, Flex Sensor) and Digital Sensors (Temperature Sensor, Digital Color Sensor)
+	- New Components: Microphones, SD Card Reader, Digital Color Sensor
 	- New Code: Library Import, Particle.variable(), Particle.publish(), Serial Data Writing
 	- Homework: Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
 
- - Week ? · Desktop Input
+- Break 
+	- Begin work on [final briefs](briefs.md) 
+
+ - Week 8 · Desktop Input
 	- Presentation: MIDI, Adobe Audition
 	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
 	- New Components: Slide Pots, Push Buttons
 	- New Code: MIDI Serial Signalling
 	- Homework: Record/Prepare Some Music!
 
-
-- Break 
-	- Begin work on [final briefs](briefs.md) 
-
-- Week 08 · Inputs from Body and Physical Space
+- Week 09 · Inputs from Body and Physical Space
 	- Presentation: Fashion and Electronic Music
 	- Make: Wearable Wearable Sound Controller
 	- New Components: 6DOF, Analog Range Finder
 	- New Code: Sonar Echo/Trigger
 	- Homework: Bodily Sound Effect Maker 
-
-- Week 09 · Miniaturization and Listening
-	- Presentation: Acoustics
-	- Make: Speakers and Headphones
-	- New Components: Audio Drivers, Mems Microphone
-	- New Code: Acoustics Prototyping in Rhino?
-	- Homework: Headphone/Speaker Shell Design
 
 - Week 10 · Data Plotting / Audio Visualizer
 	- Presentation: Data Visualization
