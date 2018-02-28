@@ -19,5 +19,5 @@ Do we want to have a make-up class next week?
 -----
 
 - Homework: Record a track with your Touch Sampler, and design an instrument around it (in teams?). Can we add other electronic controls to bend the sound?
-- Homework: Begin thinking about [final briefs](briefs.md).
+- Homework: Begin thinking about [final briefs](../briefs.md).
 - Homework: There will be a playlist to listen to! 
