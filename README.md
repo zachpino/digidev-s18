@@ -63,7 +63,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 - Break 
 	- Begin work on [final briefs](briefs.md) 
 
- - Week 8 · DAC Attack!
+ - [Week 8 · DAC Attack!](week08/README.md)
  	- Presentation: Digital->Analog Conversion, SPI Interfaces, SD Card Reading/Writing
  	- Make: Sampled Waveform Generator
 	- New Components: SD Card Breakout
