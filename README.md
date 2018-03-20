@@ -56,50 +56,52 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Presentation: Capacitive Touch and I2C, Audio Waveform Experiments
 	- Make: [Capacitive Touch Sampler](week07/exercise.md).
 	- New Code: Advanced looping, iterative checking
-	- Homework: Record a track with your Touch Sampler, and design an instrument around it (in teams?).
+	- Homework: Record a track with your Touch Sampler, and design an instrument around it.
 	- Homework: Begin thinking about [final briefs](briefs.md).
-	- Homework: There will be a playlist to listen to! 
 
-
- - Week ? · Recording and Capture 	
-	- Presentation: Microphones, Analog and Digital Sensors
-	- Make: [Sound recorder capable of capturing and playing back a sound](http://www.instructables.com/id/Arduino-Audio-Input/)
-	- New Components: Microphones, SD Card Reader, Digital Color Sensor
-	- New Code: Library Import, Particle.variable(), Particle.publish(), Serial Data Writing
-	- Homework: Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
 
 - Break 
 	- Begin work on [final briefs](briefs.md) 
 
- - Week 8 · Desktop Input
-	- Presentation: MIDI, Adobe Audition
-	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
-	- New Components: Slide Pots, Push Buttons
-	- New Code: MIDI Serial Signalling
-	- Homework: Record/Prepare Some Music!
+ - Week 8 · DAC Attack!
+ 	- Presentation: Digital->Analog Conversion, SPI Interfaces, SD Card Reading/Writing
+ 	- Make: Sampled Waveform Generator
+	- New Components: SD Card Breakout
+	- New Code: Functions, Review Complex Conditionals
+	- Homework: Make functions for analog Triangle and Square waves.
+	- Homework: Solder male->male headers onto your new Color Sensors, as well as your Speakers
+	- Homework: Bring in several MP3s
+	- Homework: [Brief Proposal](briefs.md)
 
-- Week 09 · Inputs from Body and Physical Space
+ - Week 9 · Recording and Playback 	
+	- Presentation: Microphones and Speakers
+	- Make: [Sound recorder capable of capturing and playing back a sound](http://www.instructables.com/id/Arduino-Audio-Input/)
+	- New Components: Microphones, SD Card Reader, Digital Color Sensor
+	- New Code: Particle.variable(), Particle.publish(), Serial Data Writing
+	- Homework: Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
+
+- Week 10 · Inputs from Body and Physical Space
 	- Presentation: Fashion and Electronic Music
 	- Make: Wearable Wearable Sound Controller
 	- New Components: 6DOF, Analog Range Finder
 	- New Code: Sonar Echo/Trigger
 	- Homework: Bodily Sound Effect Maker 
 
-- Week 10 · Data Plotting / Audio Visualizer
+- Week 11 · Data Plotting / Audio Visualizer
 	- Presentation: Data Visualization
 	- Make: Online Temperature Recorder
 	- New Components: 
 	- New Code: Particle API calls, SVG and D3 basics
 	- Homework: Begin Work on Final Briefs
 
-- Week 11 · Communication Protocols
-	- Presentation: Pirate Radio + Designed Disobedience
-	- Make: [FM Radio Tuner, FM Radio Transmitter](https://create.arduino.cc/projecthub/nickthegreek82/arduino-tea5767-fm-radio-receiver-543480)
-	- New Components: Radio Module, Bluetooth, XBee, IR Diodes
-	- New Code: 
-	- Homework: 
+ - Week 12 · Desktop Input
+	- Presentation: MIDI, Adobe Audition
+	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
+	- New Components: Slide Pots, Push Buttons
+	- New Code: MIDI Serial Signalling
+	- Homework: Record/Prepare Some Music!
 
-- Weeks 12 — 13
+- Weeks 13
 	- Catch-Up, Worktime, Review, and Odds+Ends
 
 - Week 14 · Finished!
