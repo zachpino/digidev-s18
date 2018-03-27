@@ -85,7 +85,7 @@ void loop() {
 
 -----
 
-We can also use the Digital to Analog Converter on our Photon to make more interesting waveforms.
+We can also use the Digital to Analog Converter on our Photon to make more interesting waveforms. 
 
 ```c
 //simple DAC sawtooth wave demo
