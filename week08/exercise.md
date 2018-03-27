@@ -18,10 +18,11 @@ SPI uses four wires, in addition to power and ground, to communicate between a m
 
 The Photon has several SPI-compatible blocks of pins, though normally A2-A5 are used. Consult the Particle Photon pinout for other options.
 
-- A2 -> SS
-- AD -> SCK
-- MISO -> A4
-- MOSI -> A5
+- SPI Name -> Breakout Label -> Photon Pin
+- SS -> CS -> A2
+- SCK -> CLK -> A3
+- MISO -> DO -> A4
+- MOSI -> D1 -> A5
 
 If it's not obvious, use an I2C component when you can! SPI steals more pins, and is generally more complicated to get working and debug.
 
@@ -31,41 +32,58 @@ If it's not obvious, use an I2C component when you can! SPI steals more pins, an
 
 Make sure to import the `SdFat` Library for this code to compile. After set-up and opening a file, writing to an sd card is just like printing over `Serial`.
 
-```c
-//simple sd card write
+Check out the documentation for the library [here](https://github.com/greiman/SdFat-Particle). There are many code samples as well as discussions on common use cases.
 
+```c
+//import the library
 #include "SdFat.h"
 
-// Pick an SPI configuration.
-#define SPI_CONFIGURATION 0
-
+//create a variable to hold our SD access methods
 SdFat sd;
+
+//the library allows for multiple pins to be used to speak to many different SPI devices
+//here, we are saying that the SS pin is connected to our SPI device
 const uint8_t chipSelect = SS;
 
+//the library also requires us to use mthods at the file level
 File myFile;
 
 void setup() {
 
-    if (!sd.begin(chipSelect, SPI_HALF_SPEED)) {
+  Serial.begin(9600);
+  // Wait for USB Serial to turn on, it's not instantaneous
+  while (!Serial) {
+    //this is like 'delay', but much lower level
+    SysCall::yield();
+  }
+  
+  // Initialize SdFat or print a detailed error message and stop. We work here at half speed, in case our Photon tries to access the SD card before the breakout board is ready
+  if (!sd.begin(chipSelect, SPI_HALF_SPEED)) {
     sd.initErrorHalt();
   }
 
-  // open the file for write at end like the "Native SD library"
+  // this opens a file for editing, makes the file if it doesn't exist, and places our imaginary text cursor at the end.
   if (!myFile.open("test.txt", O_RDWR | O_CREAT | O_AT_END)) {
+    //prints an error if for some reason the file couldn't be written
     sd.errorHalt("opening test.txt for write failed");
   }
+
   // if the file opened okay, write to it:
-  myFile.println("Hello! The write worked!");
+  Serial.print("Writing to test.txt...");
+  myFile.println("testing zach zach baby");
 
   // close the file:
   myFile.close();
+  Serial.println("done.");
+
 }
 
 void loop() {
   // nothing happens after setup
 }
-
 ```
+
+-----
 
 We can also use the Digital to Analog Converter on our Photon to make more interesting waveforms.
 
@@ -79,18 +97,14 @@ void setup() {
 }
 
 void loop() {
-sawtooth(pin,100,200);
-analogWrite(pin,0);
+  sawtooth(pin,100,200);
 }
 
-
 void sawtooth(int pin, int volume, int hertz) {
-        for(int i = 0; i < volume; i++){
-            analogWrite(pin, i);
-            delay(1/(hertz/2));
-            analogWrite(pin, 0);
-            delay(1/(hertz/2));
-        }
+  for(int i = 0; i < volume; i++){
+      analogWrite(pin, i);
+      delay(1000 / (hertz * volume));
+  }
 }
 
 ```

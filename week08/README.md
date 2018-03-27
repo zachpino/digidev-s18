@@ -10,12 +10,10 @@ Let's correct some simplifying assumptions we've made to date, and create some t
 
 -----
 
-- Make an [Analog Waveform Generator](exercise.md)
+- Make an [Analog Waveform Generator and SD card reader](exercise.md)
 
 -----
 
-- Recommended Review: Rewire your [Sequencer](../week03/README.md) and experiment with it. Update it to use real analog waveforms!
-- Homework: Make functions for analog Triangle and Square waves.
 - Homework: Solder male->male headers onto your new Color Sensors, as well as your Speakers
 - Homework: Bring in several MP3s
 - Homework: Brief Proposal
