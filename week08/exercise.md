@@ -18,18 +18,11 @@ SPI uses four wires, in addition to power and ground, to communicate between a m
 
 The Photon has several SPI-compatible blocks of pins, though normally A2-A5 are used. Consult the Particle Photon pinout for other options.
 
-<<<<<<< HEAD
 - SPI Name -> Breakout Label -> Photon Pin
 - SS -> CS -> A2
 - SCK -> CLK -> A3
 - MISO -> DO -> A4
 - MOSI -> D1 -> A5
-=======
-- SS -> A2
-- SCK -> A3
-- MISO -> A4
-- MOSI -> A5
->>>>>>> 26c4fa862488ed153cea32aba45f915b51b7573e
 
 If it's not obvious, use an I2C component when you can! SPI steals more pins, and is generally more complicated to get working and debug.
 
