@@ -2,7 +2,7 @@
 
 Let's convert an audio file to raw amplitude samples, and then playback those samples.
 
-![playback](playback.png)
+![playbackcapture](playbackcapture.png)
 
 Alternatively, download some [examples](example.md).
 
