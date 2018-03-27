@@ -65,7 +65,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 
  - [Week 8 · DAC Attack!](week08/README.md)
  	- Presentation: Digital->Analog Conversion, SPI Interfaces, SD Card Reading/Writing
- 	- Make: Sampled Waveform Generator
+ 	- Make: [Sampled Waveform Generator](week08/exercise.md)
 	- New Components: SD Card Breakout
 	- New Code: Functions, Review Complex Conditionals
 	- Homework: Make functions for analog Triangle and Square waves.
@@ -73,17 +73,18 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: Bring in several MP3s
 	- Homework: [Brief Proposal](briefs.md)
 
- - Week 9 · Recording and Playback 	
-	- Presentation: Microphones and Speakers
-	- Make: [Sound recorder capable of capturing and playing back a sound](http://www.instructables.com/id/Arduino-Audio-Input/)
-	- New Components: Microphones, SD Card Reader, Digital Color Sensor
-	- New Code: Particle.variable(), Particle.publish(), Serial Data Writing
-	- Homework: Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
+ - [Week 9 · Recording and Playback]()
+	- Presentation: Microphones and Playing Back Real Audio
+	- Prepare: [Files for Embedded Playback](week09/prep.md)
+ 	- Make: [Sampled Audio File Playback Device](week09/exercise.md)
+	- New Components: Microphones, SD Card Reader
+	- Homework: Get your Microphone working, Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
 
 - Week 10 · Inputs from Body and Physical Space
 	- Presentation: Fashion and Electronic Music
 	- Make: Wearable Wearable Sound Controller
-	- New Components: 6DOF, Analog Range Finder
+	- New Components: 6DOF, Analog Range Finder, Digital Color Sensor
+	- New Code: Particle.variable(), Particle.publish(), Serial Data Writing
 	- New Code: Sonar Echo/Trigger
 	- Homework: Bodily Sound Effect Maker 
 
