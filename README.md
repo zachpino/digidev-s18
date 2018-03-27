@@ -73,7 +73,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: Bring in several MP3s
 	- Homework: [Brief Proposal](briefs.md)
 
- - [Week 9 · Recording and Playback]()
+ - [Week 9 · Recording and Playback](week09/README.md)
 	- Presentation: Microphones and Playing Back Real Audio
 	- Prepare: [Files for Embedded Playback](week09/prep.md)
  	- Make: [Sampled Audio File Playback Device](week09/exercise.md)

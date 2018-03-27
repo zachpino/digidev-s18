@@ -1,9 +1,10 @@
-# Reading Large Files in Batches
+# Sampled Audio File Playback Device
 
-Let's convert an audio file to amplitude samples, and then playback those samples
-
+Let's convert an audio file to raw amplitude samples, and then playback those samples.
 
 ![playback](playback.png)
+
+Alternatively, download some [examples](example.md).
 
 -----
 
@@ -13,7 +14,7 @@ Make sure to import the `SdFat` Library for this code to compile. After set-up a
 
 Check out the documentation for the library [here](https://github.com/greiman/SdFat-Particle). There are many code samples as well as discussions on common use cases.
 
-This is the baseline code for reading, as well as writing.
+This is the baseline code for reading, as well as writing, commented out.
 
 ```c
 #include "SdFat.h"
@@ -79,8 +80,78 @@ void loop() {
 
 -----
 
-More advanced code allows us to read a stream of data and operate on it.
+More advanced code allows us to read a stream of data and operate on it. 
 
 ```c
+// This #include statement was automatically added by the Particle IDE.
+#include <SdFat.h>
 
+int pin = DAC1;
+int button = D1;
+
+SdFat sd;
+const uint8_t chipSelect = SS;
+
+File myFile;
+
+void setup() {
+    //set pinmodes
+    pinMode(pin,OUTPUT);
+    pinMode(button,INPUT);
+    
+    Serial.begin(9600);
+     // Wait for USB Serial 
+    while (!Serial) {
+        SysCall::yield();
+    }
+}
+
+void loop() {
+    //check for button press
+    int buttonState = digitalRead(D1);
+
+    if(buttonState == HIGH){
+        playAudioFile("aerodynamic_raw.h");
+    }
+}
+
+//function for playback
+void playAudioFile(String filename){
+
+     // Initialize SdFat or print a detailed error message and halt
+  if (!sd.begin(chipSelect, SPI_HALF_SPEED)) {
+    sd.initErrorHalt();
+  }
+
+  // open the file for reading:
+  if (!myFile.open(filename, O_READ)) {
+    sd.errorHalt("opening test.txt for read failed");
+  }
+
+  // variable to hold read data
+  int data;
+  
+  //while there remains stuff in the file to read
+  while ((data = myFile.read()) >= 0) {
+    //make a string container for the contents of the audio files, and stop whenever we hit a comma
+    String list = myFile.readStringUntil(',');
+    
+    //convert the string to an integer and rename it
+    int amplitude = list.toInt();
+    
+    //keep track of the start of when this amplitude was played
+    int start = micros();
+    
+    //check for when we should play the next sample
+    while(micros() < start + 16){
+        //play the sample
+        analogWrite(pin, note);
+    }
+  }
+  
+  // close the file:
+  myFile.close();
+    
+}
+```
 
