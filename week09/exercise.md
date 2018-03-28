@@ -139,14 +139,11 @@ void playAudioFile(String filename){
     //convert the string to an integer and rename it
     int amplitude = list.toInt();
     
-    //keep track of the start of when this amplitude was played
-    int start = micros();
-    
-    //check for when we should play the next sample
-    while(micros() < start + 16){
-        //play the sample
-        analogWrite(pin, note);
-    }
+    //send the voltage to the headphone jack
+    analogWrite(pin, amplitude);
+
+    //wait, experiment with the timing!
+    delayMicroseconds(20);
   }
   
   // close the file:
