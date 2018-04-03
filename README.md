@@ -80,7 +80,7 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- New Components: Microphones, SD Card Reader
 	- Homework: Get your Microphone working, Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
 
-- [Week 10 · Inputs from Body and Physical Space]()
+- [Week 10 · Inputs from Body and Physical Space](week10/README.md)
 	- New Components: 6DOF, Digital Color Sensor
 	- Make: [Sensor Array](week10/exercise.md)
 	- New Code: Serial Data Writing
