@@ -80,26 +80,19 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- New Components: Microphones, SD Card Reader
 	- Homework: Get your Microphone working, Record/Prepare 8 Sounds, Make 8 Sound Sample/FX Board
 
-- Week 10 · Inputs from Body and Physical Space
-	- Presentation: Fashion and Electronic Music
-	- Make: Wearable Wearable Sound Controller
-	- New Components: 6DOF, Analog Range Finder, Digital Color Sensor
-	- New Code: Particle.variable(), Particle.publish(), Serial Data Writing
-	- New Code: Sonar Echo/Trigger
-	- Homework: Bodily Sound Effect Maker 
+- [Week 10 · Inputs from Body and Physical Space]()
+	- New Components: 6DOF, Digital Color Sensor
+	- Make: [Sensor Array](week10/exercise.md)
+	- New Code: Serial Data Writing
+	- Homework: Use one of the sensors introduced this week to create a *wearable* musical instument, continue refining your final project, and think about what you might need to order.
+	- Homework: Download [Adobe Audition](https://www.adobe.com/products/audition.html?sdid=KKQPG&mv=search&s_kwcid=AL!3085!3!247410221515!e!!g!!adobe%20audition&ef_id=WsP@DAAABTAZ-QGq:20180403221956:s)
 
-- Week 11 · Data Plotting / Audio Visualizer
-	- Presentation: Data Visualization
-	- Make: Online Temperature Recorder
-	- New Components: 
-	- New Code: Particle API calls, SVG and D3 basics
-	- Homework: Begin Work on Final Briefs
-
- - Week 12 · Desktop Input
+ - Week 11 · Desktop Input
 	- Presentation: MIDI, Adobe Audition
 	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
 	- New Components: Slide Pots, Push Buttons
 	- New Code: MIDI Serial Signalling
+	- New Code: Paricle Variables and Functions
 	- Homework: Record/Prepare Some Music!
 
 - Weeks 13
