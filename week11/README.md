@@ -4,7 +4,7 @@ Let's play real instruments, and make resonant percussion, with an electromagnet
 
 ---
 
-- Make: [Desktop Percussion](week11/exercise.md)
+- Make: [Desktop Percussion](exercise.md)
 
 -----
 
