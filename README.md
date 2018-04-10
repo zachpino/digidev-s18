@@ -87,7 +87,14 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: Use one of the sensors introduced this week to create a *wearable* musical instument, continue refining your final project, and think about what you might need to order.
 	- Homework: Download [Adobe Audition](https://www.adobe.com/products/audition.html?sdid=KKQPG&mv=search&s_kwcid=AL!3085!3!247410221515!e!!g!!adobe%20audition&ef_id=WsP@DAAABTAZ-QGq:20180403221956:s)
 
- - Week 11 · Desktop Input
+- [Week 11 · Percussion and Particle API Access](week11/README.md)
+	- New Components: Solenoid, TMP35, Transistors
+	- Make: [Desktop Percussion](week11/exercise.md)
+	- New Code: Particle API Code
+	- Homework: Final Briefs! Order Parts!
+	- Homework: Listen to a [Song Exploder](http://songexploder.net) podcast episode of your choice
+
+ - Week 12 · Desktop Input
 	- Presentation: MIDI, Adobe Audition
 	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
 	- New Components: Slide Pots, Push Buttons
