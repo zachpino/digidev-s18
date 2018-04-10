@@ -1,4 +1,4 @@
-# Week 10 · Percussion and Particle API Access
+# Week 11 · Percussion and Particle API Access
 
 Let's play real instruments, and make resonant percussion, with an electromagnet.
 
