@@ -1,6 +1,6 @@
 # Desktop Percussion
 
-Let's see what some new sensors can report to us.
+Let's drop a beat.
 
 ![solenoid](solenoid.png)
 
