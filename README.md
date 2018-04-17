@@ -94,16 +94,17 @@ Documentation and Resources for the Spring 2018 IIT Institute of Design Digital 
 	- Homework: Final Briefs! Order Parts!
 	- Homework: Listen to a [Song Exploder](http://songexploder.net) podcast episode of your choice
 
- - Week 12 · Desktop Input
+- [Week 12 · Loud and Clear](week12/README.md)
+	- New Components: Amp and Speakers
+	- Make: [Loudspeaker](week12/exercise.md)
+	- Homework: Final Briefs! Order Parts!
+
+ - Week 13 · Desktop Input
 	- Presentation: MIDI, Adobe Audition
 	- Make: [MIDI Controller](http://www.instructables.com/id/Arduino-MIDI-Controller/)
 	- New Components: Slide Pots, Push Buttons
 	- New Code: MIDI Serial Signalling
-	- New Code: Paricle Variables and Functions
 	- Homework: Record/Prepare Some Music!
-
-- Weeks 13
-	- Catch-Up, Worktime, Review, and Odds+Ends
 
 - Week 14 · Finished!
 	- Presentation: Final Critique
