@@ -23,10 +23,6 @@ For later, you may want to play with a dual speaker setup.
 
 ### Code
 
-The solenoid will just use `digitalWrite()`. Nothing new there.
-
-The temperature sensor can potentially use some new, Particle-specific stuff.
-
 ```c
 void setup() {
     pinMode(DAC1, OUTPUT);
